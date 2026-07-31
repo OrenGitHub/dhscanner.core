@@ -1,15 +1,15 @@
-[submodule "dhscanner.codegen"]
-	path = dhscanner.codegen
-	url = https://github.com/OrenGitHub/dhscanner.codegen
-[submodule "dhscanner.query.engine"]
-	path = dhscanner.query.engine
-	url = https://github.com/OrenGitHub/dhscanner.query.engine
-[submodule "dhscanner.kbgen"]
-	path = dhscanner.kbgen
-	url = https://github.com/OrenGitHub/dhscanner.kbgen
-[submodule "dhscanner.0.fronts"]
-	path = dhscanner.0.fronts
-	url = https://github.com/OrenGitHub/dhscanner.0.fronts
-[submodule "dhscanner.1.parsers"]
-	path = dhscanner.1.parsers
-	url = https://github.com/OrenGitHub/dhscanner.1.parsers
+[submodule "dhscanner.service.fronts"]
+	path = dhscanner.service.fronts
+	url = https://github.com/OrenGitHub/dhscanner.service.fronts
+[submodule "dhscanner.service.parsers"]
+	path = dhscanner.service.parsers
+	url = https://github.com/OrenGitHub/dhscanner.service.parsers
+[submodule "dhscanner.service.codegen"]
+	path = dhscanner.service.codegen
+	url = https://github.com/OrenGitHub/dhscanner.service.codegen
+[submodule "dhscanner.service.kbgen"]
+	path = dhscanner.service.kbgen
+	url = https://github.com/OrenGitHub/dhscanner.service.kbgen
+[submodule "dhscanner.service.queryengine"]
+	path = dhscanner.service.queryengine
+	url = https://github.com/OrenGitHub/dhscanner.service.queryengine
